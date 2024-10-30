@@ -2,3 +2,5 @@ jenkins/jenkins
 nginx
 jenkins/jenkins:2.457
 mysql:5.7
+paderlol/nacos
+redis
