@@ -5,3 +5,5 @@ mysql:5.7
 paderlol/nacos
 redis
 seataio/seata-server:1.7.0
+minio/minio:latest
+
